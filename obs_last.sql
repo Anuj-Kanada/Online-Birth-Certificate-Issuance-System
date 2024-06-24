@@ -27,15 +27,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `tbladmin`
 --
 
-CREATE TABLE `tbladmin` (
-  `ID` int(10) NOT NULL,
-  `AdminName` varchar(200) DEFAULT NULL,
-  `UserName` varchar(120) DEFAULT NULL,
-  `MobileNumber` bigint(10) DEFAULT NULL,
-  `Email` varchar(120) DEFAULT NULL,
-  `Password` varchar(200) DEFAULT NULL,
-  `AdminRegdate` timestamp NULL DEFAULT current_timestamp()
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
 
 --
 -- Dumping data for table `tbladmin`
