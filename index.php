@@ -73,7 +73,7 @@
 
 
     <!-- ***** Footer Area Start ***** -->
-    <footer class="fancy-footer-area fancy-bg-dark">
+    
 
         <!-- Footer Copywrite -->
         <div class="footer-copywrite-area">
