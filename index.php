@@ -9,7 +9,7 @@
 
 
     <!-- Core Stylesheet -->
-    <link href="styl.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
     <link href="css/responsive/responsive.css" rel="stylesheet">
