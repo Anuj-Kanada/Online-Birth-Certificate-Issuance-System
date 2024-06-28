@@ -4,7 +4,7 @@ var stylez = [{
     featureType: "all",
     elementType: "all",
     stylers: [{
-        saturation: -150
+        saturation: -15
             }]
         }];
 var mapOptions = {
